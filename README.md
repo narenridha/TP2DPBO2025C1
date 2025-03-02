@@ -2,6 +2,8 @@
 
 Saya Narendra Ridha Baihaqi dengan NIM 2308882 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+---
+
 #### **Struktur Pewarisan (Inheritance)**
 1. **Kelas `PetShop` (Parent Class)**
    - Berisi atribut umum untuk produk di pet shop, yaitu:  
